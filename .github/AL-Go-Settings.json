@@ -3,7 +3,5 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
   "templateSha": "8edc212cf392aa985d35e99ae22756762607f974",
-    "DeliverToGitHubPackages": {
-    "branches": [ " NonExistingBranch" ]
-  }
+   "versioningStrategy": 3
 }
